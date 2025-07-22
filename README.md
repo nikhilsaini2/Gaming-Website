@@ -1,7 +1,7 @@
 # 🎮 GameHive - Epic Games Made For True Gamers!
 
 <div align="center">
-  <img src="./readme-images/hero-preview.png" alt="GameHive - Epic Games Made For True Gamers" width="100%">
+  <img src="./readme-images/desktop.png" alt="GameHive - Epic Games Made For True Gamers" width="100%">
 </div>
 
 ## 🌐 Live Demo
